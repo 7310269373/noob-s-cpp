@@ -1,2 +1,2 @@
 # noob-s-cpp
-a noob's cpp (study C++), don't care
+a noob's cpps (study C++), don't care
